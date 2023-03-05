@@ -1,0 +1,28 @@
+body{
+    width:300px;
+    height:300px;
+    background-color: beige;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: centre;
+    flex-direction: column;
+}
+p{
+    margin-top:70px;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid rgb(22, 141, 181);
+    color:rgb(38, 74, 62);
+    font-size:22px;
+}
+
+#fetchedata{
+   border-radius: 2px;
+   border:1px solid rgb(22, 141, 181);
+   width:100px;
+   height:30px;
+   margin: auto;
+}
